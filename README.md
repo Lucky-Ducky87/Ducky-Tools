@@ -1,4 +1,4 @@
-# 🦆 Ducky Tools
+#  Ducky Tools
 
 LUCKY DUCKY의 오리 도구 모음입니다. 셋업 파일 하나로 원하는 도구만 골라 설치하세요.
 Cute duck-themed desktop tools for Windows — one installer, pick the ducks you want.
@@ -10,7 +10,7 @@ Cute duck-themed desktop tools for Windows — one installer, pick the ducks you
 실행하면 오리들의 집(DUCK HOUSE)이 열리고, 필요한 도구를 골라 "데려오기"로 설치할 수 있습니다.
 모든 도구는 설치 후 자동으로 업데이트됩니다. · Every duck updates itself automatically.
 
-## 🦆 오리 하나만 데려오기 · Install a single duck
+##  오리 하나만 데려오기 · Install a single duck
 
 | 도구 | 설명 · What it does | 설치파일 |
 |---|---|---|
