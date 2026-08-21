@@ -10,6 +10,16 @@ Cute duck-themed desktop tools for Windows — one installer, pick the ducks you
 실행하면 오리들의 집(DUCK HOUSE)이 열리고, 필요한 도구를 골라 "데려오기"로 설치할 수 있습니다.
 모든 도구는 설치 후 자동으로 업데이트됩니다. · Every duck updates itself automatically.
 
+## 🛡️ 파란 경고 창이 뜨면 · If Windows shows a blue warning
+
+설치파일을 실행할 때 "Windows의 PC 보호" 파란 창이 뜰 수 있습니다.
+**"추가 정보"를 누르면 나타나는 "실행" 버튼을 누르면 됩니다.**
+새로 나온 무료 프로그램이라 아직 윈도우에 평판이 쌓이지 않아 뜨는 안내이며, 바이러스 경고가 아닙니다.
+설치가 끝난 뒤의 자동 업데이트에는 이 창이 뜨지 않습니다.
+
+If SmartScreen shows "Windows protected your PC", click **"More info" → "Run anyway"**.
+It appears because this free app is new and not yet known to Windows — auto-updates won't show it.
+
 ## 🦆 오리 하나만 데려오기 · Install a single duck
 
 | 도구 | 설명 · What it does | 설치파일 |
